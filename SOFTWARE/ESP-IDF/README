@@ -1,0 +1,52 @@
+# esp32-c5-evb-blinking-LED - esp-idf project
+# After power-on the user led flashes 3 times, then blinks every second
+
+#
+# How to build the project:
+#
+
+# 1. Download esp-idf master branch or tag v5.5.1 (this project has been built with v5.5.1 tag)
+
+git clone https://github.com/espressif/esp-idf.git
+
+# OR
+
+git clone https://github.com/espressif/esp-idf.git -b "v5.5.1"
+
+# 2. Install esp-idf (do this one time only)
+# 2.1 Go to esp-idf dir:
+
+cd esp-idf
+
+# 2.2 Run installation script. This will download and install all dependencies
+
+./install.sh
+
+# 3. Export esp-idf to PATH (you must do this every time, when you open terminal)
+# 3.1 go to the esp-idf path:
+
+cd PATH_TO_ESP-IDF/esp-idf
+
+# 3.2 Execute the following command as it is, including the . symbol
+. ./export.sh
+
+# 3.3 go to the project directory
+cd PATH/esp32-c5-evb-blinking-LED
+
+# 4. Set target to esp32-c5 (one time only)
+
+idf.py set-target esp32c5
+
+# OPTIONAL: Change  sdkconfig  settings
+
+idf.py menuconfig
+
+# Build:
+
+idf.py build
+
+# Flash (change PORT with the actual port, related to ESP32-C5-EVB)
+idf.py flash -p PORT
+
+If everything is done after uploading the project, the led will flash 3 times, then blink every second.
+

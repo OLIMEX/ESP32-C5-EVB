@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

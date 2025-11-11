@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/CMakeFiles/bootloader
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/CMakeFiles/bootloader.rule
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/CMakeFiles/bootloader-complete.rule
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/kalata23/SVN/IoT/ESP32-C5-EVB/Software/trunk/WEB_files/Demo_Example_WEB_files/esp32-c5-evb-blinking-LED/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

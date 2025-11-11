@@ -1,0 +1,4 @@
+--flash_mode dio --flash_freq 80m --flash_size 2MB
+0x2000 bootloader/bootloader.bin
+0x10000 esp32-c5-evb-blinking-LED.bin
+0x8000 partition_table/partition-table.bin

@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"sdkconfig.h": "c",
+		"uart.h": "c",
+		"stdint.h": "c",
+		"olimex_gpio.h": "c"
+	}
+}
